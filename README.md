@@ -1,11 +1,9 @@
-Welcom
+Welcome!
 1. Project type: Desktop
 2. Programming language: C#
 3. Variant: "Менеджер личной коллекции книг / фильмов"
 
-Ivan - marker
-Daniil - marker
-Idris - marker
+
 
 # Содержание
 #1 [Документация](Documents)  
