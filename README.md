@@ -19,4 +19,3 @@ Welcome!
 - [Парное программирование](https://github.com/brigada-popov-syomin-bogdanova/trtpo_lab/blob/master/pair-programming.md)  
 - [Технический долг](https://github.com/brigada-popov-syomin-bogdanova/trtpo_lab/blob/master/technical-debt.md)  
 - [Улучшения UX](https://github.com/brigada-popov-syomin-bogdanova/trtpo_lab/blob/master/ux-improvements.md)
-- [Видеодемонстрация - скачать](https://github.com/brigada-popov-syomin-bogdanova/trtpo_lab/blob/master/video-demonstration.mp4)
